@@ -56,7 +56,7 @@ jobs:
     if: ${{ inputs.upload }}
     steps:
       - name: Download all workflow run artifacts
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v5
         with:
           path: bin/
           merge-multiple: true
