@@ -5,4 +5,4 @@
 
 bool ksu_is_manager_apk(const char *path);
 
-#endif
+#endif /* __KSU_H_APK_V2_SIGN */
