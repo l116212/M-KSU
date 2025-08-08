@@ -1,4 +1,4 @@
-# MKSU
+# MKSU-QQ账号
 
 A [KernelSU](https://github.com/tiann/KernelSU/commit/d702e746e3bf8b9f0be6c9bf655492ea7c1fa260)-based root solution for Android devices.
 
