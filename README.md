@@ -22,6 +22,7 @@ A [KernelSU](https://github.com/tiann/KernelSU/commit/d702e746e3bf8b9f0be6c9bf65
 - [KernelSU](https://github.com/tiann/KernelSU): The original project.
 - [KernelSU](https://github.com/5ec1cff/KernelSU): The project in use.
 - [KernelSU](https://github.com/ShirkNeko/KernelSU): The project in use.
+- [susfs4ksu](https://gitlab.com/simonpunk/susfs4ksu)：The filesystem susfs used
 - [Kernel-Assisted Superuser](https://git.zx2c4.com/kernel-assisted-superuser/about/): The KernelSU idea.
 - [Magisk](https://github.com/topjohnwu/Magisk): The powerful root tool.
 - [genuine](https://github.com/brevent/genuine/): APK v2 signature validation.
